@@ -1,0 +1,5 @@
+This repository contains the first large-scale dataset for the task of Persian table-to-text generation. The dataset consists of 128k table-text pairs across diverse topics relevant to Persian language production. The tables cover statistical information, entity comparisons, general facts and knowledge, and more.
+
+The corresponding descriptive texts demonstrate how such tables can be expressed in fluent natural language, providing crucial training data to learn this challenging language generation task. This is positioning to serve as a benchmark Persian table-to-text dataset to enable further progress in few-shot, cross-lingual, and low-resource data-to-text research.
+
+We provide the dataset in easy-to-parse JSON format as well as accompanying source code to load and analyze the examples. Potential applications include automatic descriptive writing, summarization systems, assistive interfaces, and more. This contribution helps close the gap between English and Persian data-driven language generation capabilities.
